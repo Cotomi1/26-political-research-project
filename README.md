@@ -58,7 +58,6 @@
 ### 强化学习运动控制算法学习
 
 - <https://github.com/google-deepmind/mujoco_playground>
-- <https://github.com/Hellod035/LeggedLab>
 - <https://www.bilibili.com/video/BV1znLy6hEGR/>
 
 ### Crazyflie官方文档
