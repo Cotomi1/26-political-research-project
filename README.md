@@ -43,13 +43,27 @@
 
 ## 学习资料
 
-### 相关论文（待分类完善）
+### 相关论文（不分先后，凭兴趣阅读）
 
 > Zhang, J., Yu, X., & Lin, Y. (2026). Rethinking Occlusion Modeling for UAV Tracking. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 13563-13573).
 
 > Patil, A., Singh, M., Maradana, U. G., & Sanket, N. J. (2026). MinNav: Minimalist Navigation Using Optical Flow For Active Tiny Aerial Robots. arXiv preprint arXiv:2606.07813.
 
 > Zheng, H., Chen, Z., Fu, Y., Yang, M., & Qin, T. (2026). SCAN-Planner: Spatial Collision-Aware Local Planning for Route-Guided Long-Range Quadruped Navigation. arXiv preprint arXiv:2606.19555.
+
+>R. J. Bouwmeester, F. Paredes-Vallés and G. C. H. E. de Croon, "NanoFlowNet: Real-time Dense Optical Flow on a Nano Quadcopter," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 1996-2003, doi: 10.1109/ICRA48891.2023.10161258. keywords: {Semantic segmentation;Microprocessors;Machine learning;Rendering (computer graphics);Real-time systems;Hardware;Optical flow},
+
+>Klapoetke, N., Nern, A., Peek, M. et al. Ultra-selective looming detection from radial motion opponency. Nature 551, 237–241 (2017). https://doi.org/10.1038/nature24626
+
+>R. Zou, M. Cannici and D. Scaramuzza, "Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones," in IEEE Transactions on Robotics, vol. 42, pp. 1591-1606, 2026, doi: 10.1109/TRO.2026.3672537.keywords: {Image reconstruction;Three-dimensional displays;Cameras;Robots;Trajectory;Neural radiance field;Drones;Deblurring;Accuracy;Robot sensing systems;3-D reconstruction;event cameras;high-speed aerial robotics;motion deblurring;neural radiance fields (NeRFs)},
+
+>NanoBench: A Multi-Task Benchmark Dataset for Nano-Quadrotor System Identification, Control, and State Estimation. https://doi.org/10.48550/arXiv.2603.09908
+
+>Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments. https://doi.org/10.48550/arXiv.2503.10141
+
+>MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction. https://doi.org/10.48550/arXiv.2311.14100
+
+>OppLoD: the Opponency based Looming Detector, Model Extension of Looming Sensitivity from LGMD to LPLC2. https://doi.org/10.48550/arXiv.2302.10284
 
 ### 仿真软件学习
 
@@ -64,7 +78,16 @@
 
 - <https://www.bitcraze.io/>
 
+### 嵌入式硬件
+
+- 参考`./hardware`，自行结合视频、实物学习
+
 ## 仓库文件
 
 - `./bitcraze_crazyflie_2`：Crazyflie仿真模型与场景，可导入Mujoco运行
+- `./hardware`：硬件学习资料，包括焊接、PCB、stm32、无人机等
 
+## 学习情况记录表
+
+【腾讯文档】仿生无人机项目学习进度表
+- https://docs.qq.com/sheet/DZHdnaVhaVFVCcXNs
