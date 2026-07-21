@@ -65,6 +65,16 @@
 
 >OppLoD: the Opponency based Looming Detector, Model Extension of Looming Sensitivity from LGMD to LPLC2. https://doi.org/10.48550/arXiv.2302.10284
 
+>Connectome-constrained networks predict neural activity across the fly visual system. https://doi.org/10.1038/s41586-024-07939-3
+
+>Emergent behaviour and neural dynamics in artificial agents tracking odour plumes. https://doi.org/10.1038/s42256-022-00599-w
+
+>Whole-body physics simulation of fruit fly locomotion. https://doi.org/10.1038/s41586-025-09029-4
+
+>Efficient robot navigation inspired by honeybee learning flights. https://doi.org/10.1038/s41586-026-10461-3
+
+>Head-direction cells as a neural compass in bats navigating outdoors on a remote oceanic island. https://doi.org/10.1126/ science.adw6202
+
 ### 仿真软件学习
 
 - 可参考B站视频，例如：<https://www.bilibili.com/video/BV1YnLP6uEeZ/>
